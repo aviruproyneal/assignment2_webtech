@@ -1,4 +1,4 @@
-# Assignment #2 — Advanced CSS (Flexbox & Grid)
+# Assignment 2: Advanced CSS (Flexbox & Grid)
 
 **Name:** Avirup Roy
 
@@ -80,7 +80,7 @@ I made a portfolio layout with header, projects area, sidebar and footer. The wh
 
 ### Site Footer (Grid Alignment)
 
-The bottom of the page has a row of tech-stack badges. It uses `grid-template-columns: repeat(4, 120px)` and demonstrates four grid alignment properties together — `justify-content: center` centers the whole grid horizontally, `justify-items: center` centers each badge inside its cell, `align-content: center` centers the row vertically, and `align-items: center` centers each badge vertically.
+The bottom of the page has a row of tech-stack badges. It uses `grid-template-columns: repeat(4, 120px)` and demonstrates four grid alignment properties together; `justify-content: center` centers the whole grid horizontally, `justify-items: center` centers each badge inside its cell, `align-content: center` centers the row vertically and `align-items: center` centers each badge vertically.
 
 **Screenshot:**
 ![25](Images/image-24.png)
@@ -95,4 +95,4 @@ The main thing I learned from this assignment is when to use Flexbox vs. Grid. F
 
 The trickiest part was the sizing units. `min-content`, `max-content`, `minmax()`, and `fit-content()` all behave a little differently. I had to test each one to see how they actually shrink or grow a column. The gallery with the featured image spanning a 2×2 block also took a bit of math to get the total cells right.
 
-`grid-template-areas` turned out to be my favorite part. Writing the layout as a visual map — `"sidebar main"` — is much easier to read than placing items by line numbers, especially when there are four sections to manage.
+`grid-template-areas` turned out to be my favorite part. Writing the layout as a visual map, `"sidebar main"` is much easier to read than placing items by line numbers, especially when there are four sections to manage.
