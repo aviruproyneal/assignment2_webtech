@@ -1,8 +1,10 @@
 # Assignment #2 — Advanced CSS (Flexbox & Grid)
 
 **Name:** Avirup Roy
+
 **Group:** IT-2513
-**Live Site:** [YOUR GITHUB PAGES LINK]
+
+**Live Site:** https://aviruproyneal.github.io/assignment2_webtech/
 
 ---
 
