@@ -10,7 +10,7 @@
 
 ## Objective
 
-This assignment was about building layouts with Flexbox and CSS Grid instead of floats. The goal was to get comfortable with alignment, spacing, and combining both systems on one page.
+This assignment is about building layouts with Flexbox and CSS Grid instead of floats. It helped me get comfortable with alignment, spacing and combining both systems on one page.
 
 ---
 
